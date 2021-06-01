@@ -4,5 +4,22 @@ This collection is comprised of archaeology &amp; paleontology specimens from th
 
 Link to digital collection [here](https://doi.org/10.25810/2csn-xa72).
 ## Metadata
+### File Name
+### Collection Name
+### Work ID
+### Work Type
+### Work Title
+### Work Title Source
+### Work Date
+### Subject Term
+### Location Name
+### Repository Location Name
+### Material
+### Technique
+### Style Period
+### Cultural Context
+### Work Description
+### Relation
+### Image Rights
 ## Resources
 ## Notes
